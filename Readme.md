@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="30%">
  
-> ### A self-taught web developer who loves building stuff and has keen interest in full stack engineering. Converting ideas, imaginations into reality with help of tools and technologies and trying to make them convenient and usable for everyone Is what I like to do. 👨‍💻✅
+> ### Looking forward to solve complex problems by building efficient modern tech platforms using versatile tools and technologies along with domain knowledge of software engineering and methodologies.🎯 Apart from this love to take leadership roles and build a productive ecosystem to foster overall growth of community. 👨‍💻✅
   
 
 #### `🔭 Currently working on ReactJS, Strapi, APIs`
