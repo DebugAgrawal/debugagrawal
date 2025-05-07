@@ -2,7 +2,7 @@
 <p margin-bottom="10px"><h1 align="center" > :rocket: Deepak Agrawal :rocket: </h1></p>
 <p align="center" margin-top="10px">
                                    
-  <a href="https://www.linkedin.com/in/your-network-is-your-net-worth/" target="_blank">
+  <a href="https://www.linkedin.com/in/debugagrawal/" target="_blank">
   <img src="https://img.shields.io/badge/-Deepak Agrawal-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/debugagrawal//" width="16%"/>
   </a>
     
